@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="jumo_tianqi"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.chaoyangdongyongguaige.db.Province"/>
+        <mapping class="com.example.chaoyangdongyongguaige.db.city"/>
+        <mapping class="com.example.chaoyangdongyongguaige.db.County"/>
+    </list>
+</litepal>
